@@ -6,7 +6,9 @@ Orbit 是由 [ActionMesh-AI](https://github.com/ActionMesh-AI) 开发的 macOS A
 
 前往 [Releases](https://github.com/ActionMesh-AI/Orbit/releases) 下载已发布版本的安装包。系统要求、处理器架构、安装步骤与已知问题以对应版本的说明为准。
 
-目前本仓库尚未发布安装包。首次发布后，下载文件会出现在对应版本的 **Assets** 中。
+当前版本：**[Orbit 0.0.4](https://github.com/ActionMesh-AI/Orbit/releases/tag/v0.0.4)**，适用于 Apple Silicon / macOS 14 及以上。安装包采用 ad-hoc 签名，尚未通过 Apple 公证。详见 [版本说明](releases/0.0.4/README.md)。
+
+**0.0.4 是既有安装包的原样再发布，保留 Apache-2.0 与第三方许可，不追溯适用下述专有许可限制。** 见 [该版本许可范围](releases/0.0.4/LICENSE-SCOPE.md)。
 
 GitHub 自动生成的 **Source code (zip / tar.gz)** 只包含本发布仓库的文件，不是 App 安装包，也不包含开发仓库源码。
 
