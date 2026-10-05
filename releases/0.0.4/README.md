@@ -13,9 +13,9 @@ Orbit·知音的 macOS 桌面版本，Lite / Advance 共用一个 App，可在�
 | 签名 | ad-hoc 签名，未经过 Apple Developer ID 签名及公证 |
 | 其他平台 | 本次不提供 Windows / Linux 桌面安装包 |
 
-- **[下载 DMG（推荐）](https://github.com/ActionMesh-AI/Orbit/releases/download/v0.0.4/Orbit-0.0.4-arm64.dmg)**：约 82.6 MB，打开后将 Orbit 拖入「应用程序」。
-- **[下载 ZIP](https://github.com/ActionMesh-AI/Orbit/releases/download/v0.0.4/Orbit-0.0.4-arm64.zip)**：约 72.0 MB，解压后将 `Orbit.app` 移入「应用程序」。
-- **[SHA256SUMS](https://github.com/ActionMesh-AI/Orbit/releases/download/v0.0.4/SHA256SUMS)**：用于确认安装包完整性。
+- **[下载 DMG（推荐）](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/releases/download/v0.0.4/Orbit-0.0.4-arm64.dmg)**：约 82.6 MB，打开后将 Orbit 拖入「应用程序」。
+- **[下载 ZIP](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/releases/download/v0.0.4/Orbit-0.0.4-arm64.zip)**：约 72.0 MB，解压后将 `Orbit.app` 移入「应用程序」。
+- **[SHA256SUMS](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/releases/download/v0.0.4/SHA256SUMS)**：用于确认安装包完整性。
 
 DMG 与 ZIP 二选一即可。GitHub 自动生成的 **Source code (zip / tar.gz)** 只是本发布仓库的文档归档，不是 App 安装包。
 
@@ -147,7 +147,7 @@ open "$HOME/Library/Application Support/Orbit"
 - 原 UI 测试中曾出现人格揭晓动画时序断言失败，单独重跑通过；保留这一时序波动记录。
 - 如无法启动，先核对系统版本、芯片架构、安装位置、哈希及上面的首次打开步骤。反馈时注明是系统拦截、进程退出还是窗口未显示。
 
-请在 [Orbit Issues](https://github.com/ActionMesh-AI/Orbit/issues) 提供 App 版本、macOS 版本、芯片型号、复现步骤与脱敏截图。不要公开上传真实会话数据库、访问令牌、私人路径或 `.env`。
+请在 [Orbit Issues](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/issues) 提供 App 版本、macOS 版本、芯片型号、复现步骤与脱敏截图。不要公开上传真实会话数据库、访问令牌、私人路径或 `.env`。
 
 ## 验证记录
 
@@ -167,9 +167,9 @@ open "$HOME/Library/Application Support/Orbit"
 
 0.0.4 是已有版本的原样再发布，保留原有 Apache-2.0 与第三方组件许可，**不追溯适用发布仓库专有协议中的禁止逆向条款**。
 
-- [LICENSE-SCOPE.md](https://github.com/ActionMesh-AI/Orbit/blob/v0.0.4/releases/0.0.4/LICENSE-SCOPE.md)：本版本适用的许可范围。
-- [LICENSE-APACHE-2.0.txt](https://github.com/ActionMesh-AI/Orbit/blob/v0.0.4/releases/0.0.4/LICENSE-APACHE-2.0.txt)：原有 Apache-2.0 许可全文。
-- [THIRD-PARTY-NOTICES.md](https://github.com/ActionMesh-AI/Orbit/blob/v0.0.4/releases/0.0.4/THIRD-PARTY-NOTICES.md)：依据安装包现有内容整理的第三方许可说明。
+- [LICENSE-SCOPE.md](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/blob/v0.0.4/releases/0.0.4/LICENSE-SCOPE.md)：本版本适用的许可范围。
+- [LICENSE-APACHE-2.0.txt](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/blob/v0.0.4/releases/0.0.4/LICENSE-APACHE-2.0.txt)：原有 Apache-2.0 许可全文。
+- [THIRD-PARTY-NOTICES.md](https://github.com/Orbit-Labs-AI/Orbit-Zhiyin/blob/v0.0.4/releases/0.0.4/THIRD-PARTY-NOTICES.md)：依据安装包现有内容整理的第三方许可说明。
 - `BUNDLED-LICENSES.zip`：安装包内 30 个已有许可文件的原样副本，方便单独查阅；不是完整依赖审计的声明。
 
 上述许可文件也随本 Release 作为附件提供，请与安装包一并保留。它们没有被重新写入原 DMG / ZIP，因此不会改变原安装包的哈希和签名。
