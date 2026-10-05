@@ -2,7 +2,7 @@ Orbit 专有软件许可协议
 版本 1.0 · 2026-10-04
 
 Copyright (c) 2026 Orbit 各著作权人。保留所有权利。
-官方发布渠道：https://github.com/Orbit-Labs-AI/Orbit
+官方发布渠道：https://github.com/Orbit-Labs-AI/Orbit-Zhiyin
 
 本协议是自定义专有软件许可，不是开源许可证。
 
@@ -57,7 +57,7 @@ Copyright (c) 2026 Orbit 各著作权人。保留所有权利。
 调试与逆向工程。随包声明及许可证应按实际分发内容提供。
 
 本协议不撤销或追溯限制已按 Apache License 2.0 或其他许可证合法
-取得的材料与权利，包括 Orbit-Labs-AI/Orbit-Source 中已如此发布的代码。
+取得的材料与权利，包括 Orbit-Labs-AI/Orbit 中已如此发布的代码。
 更换发布仓库、编译、打包或将开发仓库改为私有，本身均不会撤销这些
 既有授权。本协议也不赋予许可方无权授予的第三方权利。
 
