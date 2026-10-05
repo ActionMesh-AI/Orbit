@@ -1,6 +1,6 @@
 # Orbit·知音
 
-Orbit 是由 [ActionMesh-AI](https://github.com/ActionMesh-AI) 开发的 macOS App。本仓库是官方发布入口，用于提供安装包、更新说明和问题反馈。
+Orbit 是由 [Orbit Labs](https://github.com/Orbit-Labs-AI) 开发的 macOS App。本仓库是官方发布入口，用于提供安装包、更新说明和问题反馈。
 
 ## 下载
 

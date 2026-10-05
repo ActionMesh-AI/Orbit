@@ -1,6 +1,6 @@
 # Orbit 0.0.4 许可范围
 
-本版本是已有 Orbit 0.0.4 安装包的原样再发布，DMG / ZIP 未重新构建或修改。发布维护者为 ActionMesh-AI / `yhyfhgs`，著作权属于相应贡献者和其他权利人。
+本版本是已有 Orbit 0.0.4 安装包的原样再发布，DMG / ZIP 未重新构建或修改。发布维护者为 Orbit-Labs-AI / `yhyfhgs`，著作权属于相应贡献者和其他权利人。
 
 - 本版本中原已按 Apache-2.0 发布的 Orbit 原创代码与文档继续适用 [Apache License 2.0](LICENSE-APACHE-2.0.txt)。
 - 第三方组件按其独立许可证授权，见 [第三方许可说明](THIRD-PARTY-NOTICES.md) 与安装包保留的许可文件。
